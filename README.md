@@ -22,9 +22,15 @@ If you like this project please give a star to this project. https://github.com/
 .................................................................................................................................................................................
 
 Here are some ScreenShots:
-**1st ScreenShot:** | **2nd ScreenShot:** | **3rd ScreenShot:**
------------- | ------------- | -------------
-![ScreenShot 1](https://raw.githubusercontent.com/nirmalpaul383/Console_dot_JS/main/Screenshots/Preview%201.jpg) | ![ScreenShot 2](https://raw.githubusercontent.com/nirmalpaul383/Console_dot_JS/main/Screenshots/Preview%202.jpg) | ![ScreenShot 3](https://raw.githubusercontent.com/nirmalpaul383/Console_dot_JS/main/Screenshots/Preview%203.jpg)
+
+Screenshot 1:
+![ScreenShot 1](https://raw.githubusercontent.com/nirmalpaul383/Console_dot_JS/main/Screenshots/Preview%201.jpg)
+
+Screenshot 2:
+![ScreenShot 2](https://raw.githubusercontent.com/nirmalpaul383/Console_dot_JS/main/Screenshots/Preview%202.jpg)
+
+Screenshot 3:
+![ScreenShot 3](https://raw.githubusercontent.com/nirmalpaul383/Console_dot_JS/main/Screenshots/Preview%203.jpg)
 
 .................................................................................................................................................................................
 
