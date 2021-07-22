@@ -21,6 +21,13 @@ If you like this project please give a star to this project. https://github.com/
 
 .................................................................................................................................................................................
 
+Here are some ScreenShots:
+**1st ScreenShot:** | **2nd ScreenShot:** | **3rd ScreenShot:**
+------------ | ------------- | -------------
+![ScreenShot 1](https://raw.githubusercontent.com/nirmalpaul383/Console_dot_JS/main/Screenshots/Preview%201.jpg) | ![ScreenShot 2](https://raw.githubusercontent.com/nirmalpaul383/Console_dot_JS/main/Screenshots/Preview%202.jpg) | ![ScreenShot 3](https://raw.githubusercontent.com/nirmalpaul383/Console_dot_JS/main/Screenshots/Preview%203.jpg)
+
+.................................................................................................................................................................................
+
 This project is originally made by me(N Paul). My github profile: https://github.com/nirmalpaul383/ My youtube page: https://www.youtube.com/channel/UCY6JY8bTlR7hZEvhy6Pldxg/
 
 This is an open source program . You are welcomed to modify it... If you want to support me please give a like to our facebook page: https://facebook.com/a.new.way.Technical/
