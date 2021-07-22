@@ -3,6 +3,10 @@ a small project to run/evaluate JavaScript code and to show the output on a cust
 
 .................................................................................................................................................................................
 
+Live Version: https://nirmalpaul383.github.io/Console_dot_JS/
+
+.................................................................................................................................................................................
+
 Welcome to Console.JS by N Paul.This is a small project to run/evaluate javascript code and to show the output on a custom console using a custom 'console.log()' method.
 You can enter JavaScript code here. You can use the "console.log()" method to output a JS code.
 
