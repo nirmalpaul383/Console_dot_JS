@@ -55,7 +55,8 @@ function acceptThisCode() {
 
     //When error occured for evaluating JS Codes, then program flow should not be stopped instead error message should be shown.
     try {
-        eval(rawCodes);
+        //Evaluating the expression using global Function()
+        Function(rawCodes)();
     }
     catch (error) {
         console.log((error.message)); //Show error message/code to the console ,incase of an error
